@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "phoneNo": 9876543211,
+      "salary": 700000,
+      "address": "Indore(M.P.)"
+    },
+    {
+      "id": 2,
+      "name": "Sita",
+      "email": "sita@gmail.com",
+      "phoneNo": 8669841233,
+      "salary": 650000,
+      "address": "Bhopal(M.P.)"
+    },
+    {
+      "id": 4,
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "phoneNo": 1236547896,
+      "salary": 550000,
+      "address": "Dhar(M.P.)"
+    },
+    {
+      "id": "5",
+      "name": "Divy",
+      "email": "divy@gmail.com",
+      "mobno": "4561235",
+      "address": "Indore"
+    }
+  ]
+}
